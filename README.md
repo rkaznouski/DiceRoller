@@ -7,7 +7,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-Simple kotlin android app
+Simple kotlin android application that simulates a game of dice
 
 ## Installation
 git clone git@github.com:rkaznouski/DiceRoller.git
